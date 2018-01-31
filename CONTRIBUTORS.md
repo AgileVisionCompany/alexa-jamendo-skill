@@ -1,2 +1,4 @@
-Artem Efimenko
-Volodymyr Rudyi
+# Project Contributors
+
+* Artem Efimenko
+* Volodymyr Rudyi
